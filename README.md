@@ -4,6 +4,8 @@ This README would normally document whatever steps are necessary to get your app
 
 Fun with fetch
 
+Fun with push
+
 ### What is this repository for? ###
 
 * Quick summary
